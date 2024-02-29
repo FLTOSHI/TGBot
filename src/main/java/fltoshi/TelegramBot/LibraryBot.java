@@ -10,5 +10,4 @@ public class LibraryBot {
 	public static void main(String[] args) {
 		SpringApplication.run(LibraryBot.class, args);
 	}
-
 }
